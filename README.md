@@ -1,8 +1,36 @@
-## News PWA
+# Nuno Santos News API
 
-#### External sources
+Links:  
 
-    - # news api
-        my API_KEY : 8f8fd9a138924cf89da44fc454496904 ;
+[Demo](https://ns-news.netlify.com)  
+[Repo](https://github.com/nunosantoswebdesigner/news)
 
-        my GET_URL : https://newsapi.org/v2/everything?q=apple&from=2019-06-24&to=2019-06-24&sortBy=popularity&apiKey=8f8fd9a138924cf89da44fc454496904 ;
+
+![home](https://github.com/nunosantoswebdesigner/pdfs/blob/gh-pages/images/screen_news_1.png)
+
+
+
+
+## Credits
+
+- Progressive Web App [pwa](https://developers.google.com/web/progressive-web-apps/)
+- [News Api](https://www.newsapi.org) for news API requests
+
+## License
+This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
+
+## Misc
+
+Follow Me at:      
+                [Facebook](http://www.facebook.com/nunosantoswebdesigner),     
+                [GitHub](https://github.com/nunosantoswebdesigner),     
+                [Instagram](https://www.instagram.com/nunosantos_webdesignerss/)     
+
+
+[© Nuno Santos 2019](https://nuno-santos.netlify.com)
+
+
+
+
+
+
